@@ -1,0 +1,84 @@
+# tic2024
+<TABLE BORDER>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>CSS Basics</title>
+        <style>
+        
+         h1 {
+            color: rgb(255, 20, 147);
+              }
+       
+             #titulo {
+             font-size: 2.4em;
+             text-decoration: underline;
+             }
+  
+           body {
+            background-color: rgb(255, 192, 203);
+        }
+
+        
+        h2 {
+         color: rgb(25, 25, 112);
+         font-family: monospace;
+        
+        }
+        h3 {
+        text-decoration: underline;
+        }
+        h4 {
+        font-weight: bold;
+        }
+        h5 {
+        font-size: 1em;
+         text-align: center;
+          }
+            p {
+            background-color: rgb(255, 160, 122);
+            font-family: monospace;
+        }
+        
+        </style>
+    </head>
+    <body>
+
+	<TR>
+        <TD COLSPAN=3> <h1 id="BIG DATA">
+BIG DATA</h1>
+        <img src="https://elordenmundial.com/wp-content/uploads/2020/02/27774352598_ed9cfff30a_c.jpg" width="203"> 
+        
+        </TD>
+
+        </TR>
+        
+        <TR>
+		<TD ROWSPAN=2> <h2>DEFINICIÓN:</h2> <a href="https://www.iebschool.com/blog/valor-big-data/"> <p>El big data </a> permite recopilar datos de redes sociales, visitas a páginas web, registros de llamadas y otras fuentes para mejorar la experiencia de interacción, así como maximizar el valor ofrecido.</p>
+           
+
+
+
+</TD>
+		<TD> <h3> ¿QUIÉN SE CENTRA EN  <li><a href="#BIG DATA">BIG DATA?</h3></a></li>
+       <h4> Big data es un gran problema para las industrias. La avalancha de dispositivos conectados ha creado un aumento masivo en la cantidad de información que las organizaciones recopilan, administran y analizan. Junto con los big data, existe el potencial de desbloquear grandes conocimientos, para todas las industrias, grandes y pequeñas.</h4>
+        <!--Las empresas recopilan gran información y el big data desbloquean conocimientos-->
+</TD>
+		<TD ROWSPAN=2> <strong> HISTORIA DEL BIG DATA </strong> se eliminan los criterios subjetivos en los procesos de selección  <br>y los tiempos de contratación se reducen en gran medida.
+
+<em>El acto de acceder y almacenar grandes cantidades de información para la analítica ha existido desde hace mucho tiempo. Pero el concepto de big data cobró impulso a principios de la década de 2000 cuando el analista de la industria, Doug Laney, articuló la definición actual de grandes datos como  <li><a href="#LAS TRES V">LAS TRES V.</a></li><p></em>
+  Dispones de varias páginas web donde encontrarás más información, como
+  <a href="https://www.iic.uam.es/big-data/">Instituto de la ingeniería del conocimiento</a> y <a href="https://www.eleconomista.es/diccionario-de-economia/big-data">El Economista.es</a>.
+</p></TD>
+<!--La historia del big data se considera reciente-->
+	</TR>
+	<TR>
+		<TD><id="LAS 3 V"> <p class=las tres v son> </p>  <h2 id="LAS TRES V">LAS TRES V</h2>
+ <strong><h5>Volumen:</strong> Las organizaciones recopilan datos de diversas fuentes, como transacciones comerciales, dispositivos inteligentes (IO), equipo industrial, vídeos, medios sociales.
+<strong>Velocidad:</strong> Con el crecimiento del Internet de las Cosas, los datos llegan a las empresas a una velocidad sin precedentes y deben ser manejados de manera oportuna. 
+<strong>Variedad:</strong> Los datos se presentan en todo tipo de formatos, datos numéricos ,documentos de texto no estructurados, correos electrónicos, vídeos, audios.</h5>
+<img src="https://interactivechaos.com/sites/default/files/inline-images/modelo_tres_v.png" width="203"> </TD> 
+</body>
+	</TR>
+</TABLE>
+
